@@ -1,7 +1,1 @@
---#{$prefix}nav-link-padding-x: #{$nav-link-padding-x};
---#{$prefix}nav-link-padding-y: #{$nav-link-padding-y};
-@include rfs($nav-link-font-size, --#{$prefix}nav-link-font-size);
---#{$prefix}nav-link-font-weight: #{$nav-link-font-weight};
---#{$prefix}nav-link-color: #{$nav-link-color};
---#{$prefix}nav-link-hover-color: #{$nav-link-hover-color};
---#{$prefix}nav-link-disabled-color: #{$nav-link-disabled-color};
+.background: #ffffff url(https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Flag_of_Haiti.svg/langes-640px-Flag_of_Haiti.svg.png&w=640&q=50) center center/cover no-repeat;
